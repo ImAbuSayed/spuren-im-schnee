@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/spuren-im-schnee/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Spuren im Schnee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/spuren-im-schnee/) |
+| **Get License** | [Commercial Licensing for Spuren im Schnee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/spuren-im-schnee/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Spuren im Schnee, rote Taillights im Wind
+> Baby, sag mir, wo wir heute Nacht beide sind
+> Meine Chain ist auf Ice, doch du bringst mich zum Glüh'n
+> Steig ein in den Wraith, lass uns einfach entflieh'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
