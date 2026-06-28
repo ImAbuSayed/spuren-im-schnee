@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Spuren im Schnee
+
+This log tracks the cryptographic history and versioning for the song **Spuren im Schnee** (spuren-im-schnee).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:07:35.521848 | `v1` | `1e94d7c4681c65ec8299007d466e34f4a6ebf9b4cc2668f6004715835eb1581a` | `596671143342059752830583f5451b0b6f625cd160e39d7ac23f25a4391e44f7` | `2026-06-28_spuren-im-schnee-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
